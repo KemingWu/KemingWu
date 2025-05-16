@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+- 👋 Hi, I’m Keming Wu(吴科明), an incoming first-year Phd student at Tsinghua University.
+- ✨ I’m interested in computer vision, generative AI, AIGC.
+- 🏚️ More about me, find out at my [homepage](https://kemingwu.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=MQOh71kAAAAJ&hl=en/).
+- 📮 Contact me: wukemingcqu@gmail.com
 
 <!--
 **KemingWu/KemingWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
