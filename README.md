@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m Keming Wu(Charles Wu), an incoming first-year Ph.D. Student at Tsinghua University.
+- 👋 Hi, I’m Keming Wu(Charles Wu).
 - ✨ I’m interested in Computer Vision, Generative AI, Vision Language Models.
 - 🏚️ More about me, find out at my [homepage](https://kemingwu.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=MQOh71kAAAAJ&hl=en/).
 - 📮 Contact me: wukemingcqu@gmail.com
