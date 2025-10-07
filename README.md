@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KemingWu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 - 👋 Hi, I’m Keming Wu(Charles Wu), Ph.D. student in Tsinghua University (2025.8-current).
 - ✨ I’m interested in Computer Vision, Generative AI, Vision Language Models.
 - 🏚️ More about me, find out at my [homepage](https://kemingwu.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=cOzwZBMAAAAJ&hl=en).
