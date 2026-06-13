@@ -1,15 +1,18 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=KemingWu&include_orgs=true" />
 
-- 👋 Hi, I’m Keming Wu(Charles Wu), Ph.D. student in Tsinghua University.
-- ✨ I’m interested in Computer Vision, Generative AI, Vision Language Models.
-- 📮 Contact me: wukeming0608@gmail.com
+- 👋 Hi, I’m Keming Wu, Ph.D. student in Tsinghua University.
 
 
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=KemingWu&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 **KemingWu/KemingWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+(Charles Wu)
+- ✨ I’m interested in Computer Vision, Generative AI, Vision Language Models.
+- 📮 Contact me: wukeming0608@gmail.com
+
 
 (2025.8-current).
 - 🏚️ More about me, find out at my [Google Scholar](https://scholar.google.com/citations?user=cOzwZBMAAAAJ&hl=en).
